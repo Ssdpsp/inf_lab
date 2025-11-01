@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <page_header>Расписание занятий (Балакшин Павел Валерьевич)</page_header>
+  <table_header>["День", "Время/неделя", "Группа", "Ауд./Корпус", "Предмет", "Формат занятий"]</table_header>
+  <wednesday_schedule></wednesday_schedule>
+  <title>Суббота</title>
+  <[wednesday_schedule.lessons]></[wednesday_schedule.lessons]>
+  <time>13:30-15:00</time>
+  <weeks>3, 5, 7, 9, 11, 13, 15, 17</weeks>
+  <group>ИНФОРМ (Р3107) 1.2</group>
+  <room>1333 ауд.</room>
+  <location>Кронверкский пр., д.49, лит.А</location>
+  <lesson>Информатика (Лаб)</lesson>
+  <format>Очно - дистанционный</format>
+  <saturday_schedule></saturday_schedule>
+  <[saturday_schedule.lessons]></[saturday_schedule.lessons]>
+</root>
