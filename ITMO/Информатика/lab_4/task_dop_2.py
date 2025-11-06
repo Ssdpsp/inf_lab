@@ -8,5 +8,6 @@ def toml_to_yaml(input_toml, output_yaml):
         yaml.dump(data, yaml_file, indent=2, allow_unicode=True)  
 
 input_toml = "TOML_расписание.toml"
-output_yaml = "расписание.yaml"
+output_yaml = "Расписание.yaml"
 toml_to_yaml(input_toml, output_yaml)
+print('парсинг выполнен')
